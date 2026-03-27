@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_verdaccio_website=globalThis.webpackChunk_verdaccio_website||[]).push([[8146],{29328:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":3,"totalPages":5,"totalCount":14,"nextPage":"/blog/page/2","blogDescription":"The official Verdaccio Node.js proxy registry blog","blogTitle":"Verdaccio Official Blog"}}')}}]);

@@ -1,0 +1,13 @@
+project_id: 295539
+api_token_env: CROWDIN_VERDACCIO_API_KEY
+# token local testing
+# api_token: token_secret
+
+preserve_hierarchy: true
+
+files:
+  - source: /website/i18n/en/**/*
+    translation: '/website/i18n/%locale%/**/%original_file_name%'
+  - source: /website/docs/**/*
+    translation: '/website/i18n/%locale%/docusaurus-plugin-content-docs/current/**/%original_file_name%'
+    ignore: [/website/docs/api/**/*]

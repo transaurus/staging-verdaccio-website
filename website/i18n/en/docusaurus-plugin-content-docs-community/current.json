@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.community.link.Meet the Contributors": {
+    "message": "Meet the Contributors",
+    "description": "The label for link 'Meet the Contributors' in sidebar 'community', linking to '/contributors'"
+  },
+  "sidebar.community.link.Video Talks": {
+    "message": "Video Talks",
+    "description": "The label for link 'Video Talks' in sidebar 'community', linking to '/talks'"
+  },
+  "sidebar.community.link.Watch us on YouTube": {
+    "message": "Watch us on YouTube",
+    "description": "The label for link 'Watch us on YouTube' in sidebar 'community', linking to 'https://www.youtube.com/channel/UC5i20v6o7lSjXzAHOvatt0w'"
+  },
+  "sidebar.community.link.Chat on Discord": {
+    "message": "Chat on Discord",
+    "description": "The label for link 'Chat on Discord' in sidebar 'community', linking to 'https://discord.gg/T7gJmBM6nv'"
+  },
+  "sidebar.community.link.Open Collective": {
+    "message": "Open Collective",
+    "description": "The label for link 'Open Collective' in sidebar 'community', linking to 'https://opencollective.com/verdaccio'"
+  },
+  "sidebar.community.link.GitHub Sponsors": {
+    "message": "GitHub Sponsors",
+    "description": "The label for link 'GitHub Sponsors' in sidebar 'community', linking to 'https://github.com/sponsors/verdaccio'"
+  },
+  "sidebar.community.link.LICENSE": {
+    "message": "LICENSE",
+    "description": "The label for link 'LICENSE' in sidebar 'community', linking to 'https://github.com/verdaccio/verdaccio/blob/master/LICENSE'"
+  }
+}

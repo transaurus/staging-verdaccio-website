@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_verdaccio_website=globalThis.webpackChunk_verdaccio_website||[]).push([[3842],{95255:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-downloads","id":"default"}')}}]);

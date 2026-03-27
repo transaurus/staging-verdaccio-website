@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_verdaccio_website=globalThis.webpackChunk_verdaccio_website||[]).push([[7287],{6582:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-contributors","id":"default"}')}}]);

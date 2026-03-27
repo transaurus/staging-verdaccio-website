@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_verdaccio_website=globalThis.webpackChunk_verdaccio_website||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/it-IT/blog","blogTitle":"Verdaccio Official Blog","authorsListPath":"/it-IT/blog/authors"}')}}]);
