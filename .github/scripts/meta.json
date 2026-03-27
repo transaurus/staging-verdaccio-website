@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/verdaccio/website",
+  "branch": "master",
+  "docusaurusRoot": "website",
+  "configFile": "website/docusaurus.config.js",
+  "translateCommand": "node_modules/.bin/docusaurus write-translations",
+  "buildCommand": "node_modules/.bin/docusaurus build",
+  "buildOutput": "build",
+  "packageManager": "pnpm"
+}
