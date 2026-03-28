@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category 'Introduction' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Setting up Verdaccio": {
+    "message": "Setting up Verdaccio",
+    "description": "The label for category 'Setting up Verdaccio' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Use Cases": {
+    "message": "Use Cases",
+    "description": "The label for category 'Use Cases' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Features": {
+    "message": "Features",
+    "description": "The label for category 'Features' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.User Interface": {
+    "message": "User Interface",
+    "description": "The label for category 'User Interface' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Server": {
+    "message": "Server",
+    "description": "The label for category 'Server' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Development": {
+    "message": "Development",
+    "description": "The label for category 'Development' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Plugins": {
+    "message": "Plugins",
+    "description": "The label for category 'Plugins' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.DevOps": {
+    "message": "DevOps",
+    "description": "The label for category 'DevOps' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Cloud": {
+    "message": "Cloud",
+    "description": "The label for category 'Cloud' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Tools": {
+    "message": "Tools",
+    "description": "The label for category 'Tools' in sidebar 'docs'"
+  },
+  "sidebar.docs.link.Search for Plugins & Tools": {
+    "message": "Search for Plugins & Tools",
+    "description": "The label for link 'Search for Plugins & Tools' in sidebar 'docs', linking to '/dev/plugins-search'"
+  }
+}

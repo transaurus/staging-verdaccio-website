@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Verdaccio",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Verdaccio Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Community": {
+    "message": "Community",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Metrics": {
+    "message": "Metrics",
+    "description": "Navbar item with label Metrics"
+  },
+  "item.label.Sponsor Us": {
+    "message": "Sponsor Us",
+    "description": "Navbar item with label Sponsor Us"
+  }
+}

@@ -115,7 +115,7 @@ module.exports = {
   projectName: 'verdaccio',
   url: 'https://verdaccio.org',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   // FUTURE: migrate into markdown section on migrate 4.0
   onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',

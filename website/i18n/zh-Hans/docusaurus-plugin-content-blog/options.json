@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Verdaccio Official Blog",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "The official Verdaccio Node.js proxy registry blog",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "All our posts",
+    "description": "The label for the left sidebar"
+  }
+}

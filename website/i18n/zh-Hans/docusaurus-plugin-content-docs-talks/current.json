@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.community.link.Follow us on YouTube": {
+    "message": "Follow us on YouTube",
+    "description": "The label for link 'Follow us on YouTube' in sidebar 'community', linking to 'https://www.youtube.com/channel/UC5i20v6o7lSjXzAHOvatt0w'"
+  }
+}
